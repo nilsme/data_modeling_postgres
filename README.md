@@ -71,7 +71,7 @@ Jupyter Notebook to test postgres data base.
 Folder containing sample data that is a subset of the [Million Song Dataset](http://millionsongdataset.com/).
 
 
-## Example Queries
+## Example Query
 
 If Sparkify's analytics team would be interested in how many distinct users used an
 iPhone with their app, they could run the following query on the data base:
